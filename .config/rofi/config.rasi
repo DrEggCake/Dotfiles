@@ -7,6 +7,7 @@ configuration {
     display-emoji: "Emoji ";
     drun-display-format: "{icon} {name}";
     modi: "run,drun,emoji";
+    terminal: "ghostty";
 }
 
 @import "~/.config/colors/colors.rasi"
